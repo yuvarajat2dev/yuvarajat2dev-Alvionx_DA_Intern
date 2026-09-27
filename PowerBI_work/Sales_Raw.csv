@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerRegion,Product,Qty,Amt,Notes,InternalRepCode
+4017,06-Jul-2026,Meena Malhotra-North,Ceramic Mug Set,7,2450,,RC-19E
+4028,09-Jul-2026,Priya Kapoor-North,Desk Organizer,1,320,Gift wrap requested,RC-04A
+4006,02-Jul-2026,Suresh Verma-East,Gel Pen Pack,6,540,Follow up next week,RC-04A
+4037,11-Jul-2026,Sameer Khan-West,Bookshelf,8,27200,,RC-11B
+4069,21-Jul-2026,Simran Malhotra-South,Portable Speaker,1,1599,,RC-02D
+4042,13-Jul-2026,Sanjay Kapoor-East,Ceramic Mug Set,3,1050,Follow up next week,RC-02D
+4080,25-Jul-2026,Imran Das-North,Desk Organizer,7,2240,,RC-04A
+4051,15-Jul-2026,Imran Rao-North,Gel Pen Pack,6,540,,RC-02D
+4070,22-Jul-2026,Meena Rao-West,Wireless Mouse Pro,4,4800,,RC-02D
+4064,20-Jul-2026,Kavya Das-East,Ceramic Mug Set,1,350,Follow up next week,RC-07C
+4050,15-Jul-2026,Sameer Rao-West,Air Fryer XL,1,3200,,RC-04A
+4073,23-Jul-2026,Simran Kapoor-East,Non-Stick Pan,2,1798,Follow up next week,RC-11B
+4027,08-Jul-2026,Rahul Rao-South,Office Chair,4,10000,,RC-04A
+4022,07-Jul-2026,Sneha Iyer-East,Cotton T-Shirt,1,450,,RC-19E
+4079,25-Jul-2026,Simran Sharma-West,Denim Jacket,7,13293,,RC-02D
+,,,,,,,
+4011,04-Jul-2026,Rohit Das-South,Air Fryer XL,4,12800,,RC-02D
+4066,21-Jul-2026,Simran Nair-North,Running Shoes,6,3720,,RC-11B
+4026,08-Jul-2026,Sameer Verma-South,Cotton T-Shirt,2,900,Gift wrap requested,RC-04A
+4074,23-Jul-2026,Vivek Iyer-East,Desk Organizer,2,640,,RC-11B
+4081,26-Jul-2026,Sunita Nair-West,Portable Speaker,1,1599,Follow up next week,RC-02D
+,,,,,,,
+4041,13-Jul-2026,Priya Das-North,Ceramic Mug Set,6,2100,Follow up next week,RC-11B
+4036,11-Jul-2026,Suresh Sharma-South,Ceramic Mug Set,1,350,Repeat customer,RC-07C
+4004,01-Jul-2026,Sameer Das-East,Notebook Set,1,150,,RC-02D
+4016,05-Jul-2026,Fatima Nair-West,Bluetooth Headphones,1,899,,RC-11B
+4025,08-Jul-2026,Karan Khan-West,Study Table Lamp,6,10800,,RC-19E
+4060,19-Jul-2026,Sunita Das-North,Ceramic Mug Set,4,1400,Follow up next week,RC-04A
+4005,02-Jul-2026,Vivek Nair-South,Notebook Set,6,900,,RC-04A
+4023,07-Jul-2026,Rohit Verma-West,Gel Pen Pack,2,180,,RC-11B
+4010,03-Jul-2026,Sameer Iyer-South,Denim Jacket,6,11394,,RC-07C
+4065,20-Jul-2026,Karan Malhotra-East,Non-Stick Pan,8,7192,,RC-11B
+4002,01-Jul-2026,Deepika Verma-West,Wireless Mouse Pro,1,1200,,RC-11B
+4084,26-Jul-2026,Fatima Verma-North,Notebook Set,1,150,,RC-11B
+4056,18-Jul-2026,Sameer Iyer-East,Gel Pen Pack,4,360,,RC-04A
+4009,03-Jul-2026,Ananya Verma-South,Gel Pen Pack,2,180,Repeat customer,RC-07C
+4057,18-Jul-2026,Karan Malhotra-East,Running Shoes,2,1240,Follow up next week,RC-07C
+4001,01-Jul-2026,Sneha Sharma-East,Cotton T-Shirt,4,1800,,RC-04A
+,,,,,,,
+4020,06-Jul-2026,Manoj Nair-North,Gel Pen Pack,5,450,,RC-11B
+4054,17-Jul-2026,Meena Malhotra-North,Portable Speaker,6,9594,Repeat customer,RC-11B
+4024,08-Jul-2026,Simran Rao-South,Running Shoes,7,4340,,RC-19E
+4015,05-Jul-2026,Fatima Rao-East,Bookshelf,7,23800,Repeat customer,RC-07C
+4044,13-Jul-2026,Karan Rao-East,Portable Speaker,6,9594,,RC-11B
+4094,30-Jul-2026,Simran Iyer-South,Non-Stick Pan,4,3596,Gift wrap requested,RC-07C
+4007,02-Jul-2026,Sameer Rao-North,Desk Organizer,7,2240,,RC-19E
+4019,06-Jul-2026,Sneha Khan-West,Portable Speaker,8,12792,,RC-07C
+4039,12-Jul-2026,Rahul Sheikh-South,Wireless Mouse Pro,2,2400,,RC-04A
+4034,10-Jul-2026,Sameer Kapoor-North,Non-Stick Pan,2,1798,,RC-19E
+4082,26-Jul-2026,Sanjay Kapoor-West,Denim Jacket,6,11394,Repeat customer,RC-07C
+4062,20-Jul-2026,Sanjay Verma-East,Air Fryer XL,5,16000,Repeat customer,RC-07C
+4018,06-Jul-2026,Vivek Rao-North,Study Table Lamp,2,3600,Follow up next week,RC-07C
+4090,28-Jul-2026,Manoj Iyer-North,Gel Pen Pack,7,630,,RC-04A
+4085,27-Jul-2026,Kavya Nair-South,Portable Speaker,8,12792,,RC-19E
+4014,04-Jul-2026,Sanjay Kapoor-West,Ceramic Mug Set,8,2800,,RC-07C
+4077,25-Jul-2026,Aarav Das-West,Non-Stick Pan,1,899,Gift wrap requested,RC-07C
+4087,28-Jul-2026,Sneha Nair-East,Bluetooth Headphones,1,899,Follow up next week,RC-19E
+4091,29-Jul-2026,Shalini Sheikh-South,Ceramic Mug Set,3,1050,Follow up next week,RC-19E
+4049,15-Jul-2026,Vivek Sharma-North,Denim Jacket,3,5697,Follow up next week,RC-11B
+4067,21-Jul-2026,Ananya Kapoor-South,Portable Speaker,1,1599,,RC-11B
+4076,24-Jul-2026,Deepika Sheikh-West,Wireless Mouse Pro,4,4800,Repeat customer,RC-02D
+,,,,,,,
+4086,27-Jul-2026,Karan Sheikh-East,Notebook Set,6,900,,RC-19E
+4021,07-Jul-2026,Meena Rao-North,Office Chair,6,15000,,RC-04A
+4013,04-Jul-2026,Priya Iyer-West,Running Shoes,2,1240,,RC-19E
+4047,14-Jul-2026,Imran Khan-East,Office Chair,4,10000,Gift wrap requested,RC-11B
+4008,03-Jul-2026,Kavya Iyer-South,Bookshelf,2,6800,,RC-11B
+4030,09-Jul-2026,Imran Das-West,Cotton T-Shirt,8,3600,Repeat customer,RC-11B
+4033,10-Jul-2026,Karan Kapoor-West,Portable Speaker,7,11193,,RC-07C
+4078,25-Jul-2026,Suresh Malhotra-South,Non-Stick Pan,4,3596,Follow up next week,RC-02D
+4035,10-Jul-2026,Aarav Verma-South,Portable Speaker,7,11193,,RC-02D
+4059,19-Jul-2026,Rahul Khan-North,Bluetooth Headphones,7,6293,Gift wrap requested,RC-07C
+4046,14-Jul-2026,Ananya Verma-South,Running Shoes,2,1240,,RC-19E
+4043,13-Jul-2026,Sanjay Verma-North,Non-Stick Pan,2,1798,,RC-19E
+4055,17-Jul-2026,Vivek Nair-North,Ceramic Mug Set,1,350,,RC-11B
+4045,14-Jul-2026,Ananya Nair-West,Gel Pen Pack,5,450,,RC-19E
+4068,21-Jul-2026,Simran Das-North,Non-Stick Pan,7,6293,,RC-02D
+4071,22-Jul-2026,Imran Sheikh-East,Notebook Set,8,1200,Repeat customer,RC-19E
+4088,28-Jul-2026,Suresh Malhotra-South,Bluetooth Headphones,4,3596,,RC-07C
+4048,15-Jul-2026,Vivek Rao-West,Running Shoes,1,620,,RC-02D
+,,,,,,,
+4075,24-Jul-2026,Suresh Nair-South,Bluetooth Headphones,7,6293,Repeat customer,RC-07C
+4040,12-Jul-2026,Kavya Verma-South,Ceramic Mug Set,2,700,,RC-19E
+4032,10-Jul-2026,Priya Verma-North,Ceramic Mug Set,6,2100,,RC-11B
+4052,16-Jul-2026,Priya Khan-East,Desk Organizer,1,320,Gift wrap requested,RC-11B
+4029,09-Jul-2026,Manoj Kapoor-East,Study Table Lamp,8,14400,,RC-19E
+4038,12-Jul-2026,Karan Sharma-North,Bookshelf,6,20400,,RC-04A
+4012,04-Jul-2026,Suresh Khan-South,Study Table Lamp,6,10800,,RC-11B
+4003,01-Jul-2026,Fatima Rao-North,Air Fryer XL,4,12800,Repeat customer,RC-11B
+4058,19-Jul-2026,Manoj Malhotra-East,Wireless Mouse Pro,2,2400,Follow up next week,RC-11B
+4092,29-Jul-2026,Deepika Sheikh-West,Ceramic Mug Set,5,1750,Gift wrap requested,RC-11B
+4083,26-Jul-2026,Sunita Khan-North,Non-Stick Pan,1,899,,RC-07C
+4061,19-Jul-2026,Sunita Sharma-South,Denim Jacket,7,13293,,RC-07C
+4089,28-Jul-2026,Kavya Verma-North,Denim Jacket,7,13293,Gift wrap requested,RC-04A
+4095,30-Jul-2026,Sanjay Khan-East,Air Fryer XL,1,3200,,RC-04A
+4072,23-Jul-2026,Meena Sheikh-West,Running Shoes,4,2480,Follow up next week,RC-19E
+4063,20-Jul-2026,Suresh Khan-South,Cotton T-Shirt,7,3150,Repeat customer,RC-11B
+4053,16-Jul-2026,Fatima Verma-East,Notebook Set,7,1050,,RC-11B
+4093,29-Jul-2026,Rohit Khan-West,Cotton T-Shirt,8,3600,Repeat customer,RC-07C
+4031,09-Jul-2026,Sneha Verma-West,Denim Jacket,7,13293,Repeat customer,RC-02D
